@@ -1,4 +1,4 @@
-# DOWNLOAD THE THINKS NECESSARY
+# DOWNLOAD THIS
 * Download pyspark (link: http://spark.apache.org/downloads.html)
 * Download hadoop (link: https://archive.apache.org/dist/hadoop/core/hadoop-2.7.0/) (hadoop-2.7.0.tar.gz !!!)
 
