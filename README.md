@@ -5,7 +5,7 @@
 # SET THE PARAMETERS
 + Add the next to enviroment variables of os (in my case, i am using Windows 10):
   - HADOOP_HOME: "C:\hadoop-2.7.0"
-  - JAVA_HOME: "C:\Java\jdk1.8.0_171\bin (It has not to be in Program Files folder!!!)"
+  - JAVA_HOME: "C:\Java\jdk1.8.0_171 (It has not to be in Program Files folder!!!)"
   - PYSPARK_PYTHON: "C:\Users\Sebastián\Anaconda3\python.exe"
   - SPARK_HOME: "C:\spark-2.4.3-bin-hadoop2.7\
   - PYSPARK_DRIVER_PYTHON ipython
@@ -13,3 +13,4 @@
 + Add to the path:
   - C:\spark-2.4.3-bin-hadoop2.7\bin
   - C:\hadoop-2.7.0\bin
+  - C:\Java\jdk1.8.0_171\bin 
