@@ -16,7 +16,7 @@
   - C:\Java\jdk1.8.0_171\bin 
 
 + Add to the source C:\hadoop-2.7.0\bin, the next files hadood.dll and winutils.exe that are founded in: https://github.com/steveloughran/winutils/tree/master/hadoop-2.7.1/bin
- 
+
 + Add the next jar libraries to the next D:\spark-2.4.3-bin-hadoop2.7\jars:
- - https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-aws/2.7.3
- - https://mvnrepository.com/artifact/net.java.dev.jets3t/jets3t/0.9.4
+  - https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-aws/2.7.3
+  - https://mvnrepository.com/artifact/net.java.dev.jets3t/jets3t/0.9.4
