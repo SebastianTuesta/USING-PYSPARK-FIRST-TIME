@@ -20,3 +20,7 @@
 + Add the next jar libraries to the next D:\spark-2.4.3-bin-hadoop2.7\jars:
   - https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-aws/2.7.3
   - https://mvnrepository.com/artifact/net.java.dev.jets3t/jets3t/0.9.4
+
++ If you want to use s3a protocols:
+  Add this libraries, to the lib folder of spark, download from maven:
+   - aws-java-sdk-1.7.4.jar, verify that the dependencie of your hadoop-aws is compatible with aws-java-sdk.
