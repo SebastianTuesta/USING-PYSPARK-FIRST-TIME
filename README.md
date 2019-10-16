@@ -1,8 +1,10 @@
-# DOWNLOAD THIS
+# PYSPARK
+
+## DOWNLOAD THIS
 * Download pyspark (link: http://spark.apache.org/downloads.html)
 * Download hadoop (link: https://archive.apache.org/dist/hadoop/core/hadoop-2.7.0/) (hadoop-2.7.0.tar.gz !!!)
 
-# SET THE PARAMETERS
+## SET THE PARAMETERS
 + Add the next to enviroment variables of os (in my case, i am using Windows 10):
   - HADOOP_HOME: "C:\hadoop-2.7.0"
   - JAVA_HOME: "C:\Java\jdk1.8.0_171 (It has not to be in Program Files folder!!!)"
@@ -24,3 +26,7 @@
 + If you want to use s3a protocols:
   Add this libraries, to the lib folder of spark, download from maven:
    - aws-java-sdk-1.7.4.jar, verify that the dependencie of your hadoop-aws is compatible with aws-java-sdk.
+
+# POWER BI
+Power BI has problems with python´s anaconda. So, the recomendation is install python of this setup: https://github.com/winpython/winpython/releases/tag/2.1.20190928.
+Then we must replace the path of Power BI for python.
