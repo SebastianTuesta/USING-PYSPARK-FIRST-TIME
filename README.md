@@ -30,3 +30,6 @@
 # POWER BI
 Power BI has problems with python´s anaconda. So, the recomendation is install python of this setup: https://github.com/winpython/winpython/releases/tag/2.1.20190928.
 Then we must replace the path of Power BI for python.
+
+# CONNECT PYTHON WITH ORACLE 32 BITS
+https://oracle.github.io/odpi/doc/installation.html#windows
