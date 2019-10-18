@@ -33,3 +33,4 @@ Then we must replace the path of Power BI for python.
 
 # CONNECT PYTHON WITH ORACLE 32 BITS
 https://oracle.github.io/odpi/doc/installation.html#windows
+https://stackoverflow.com/questions/33709391/using-multiple-python-engines-32bit-64bit-and-2-7-3-5
